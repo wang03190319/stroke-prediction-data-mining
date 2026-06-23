@@ -1,0 +1,7 @@
+Best parameters: {'model__C': 0.01, 'model__class_weight': {0: 1, 1: 5}, 'model__solver': 'liblinear'}
+Best CV PR-AUC: 0.1958
+Best OOF F2 threshold: 0.2680
+Default confusion matrix: [[922, 50], [32, 18]]
+Tuned confusion matrix: [[763, 209], [10, 40]]
+Default metrics: {'Accuracy': 0.9197651663405088, 'Precision': 0.2647058823529412, 'Recall': 0.36, 'F1-score': 0.3050847457627119, 'F2-score': 0.3358208955223881, 'PR-AUC': 0.25171238326186424}
+Tuned metrics: {'Accuracy': 0.7857142857142857, 'Precision': 0.1606425702811245, 'Recall': 0.8, 'F1-score': 0.26755852842809363, 'F2-score': 0.44543429844098, 'PR-AUC': 0.25171238326186424}

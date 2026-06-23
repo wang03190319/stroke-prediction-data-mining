@@ -1,0 +1,6 @@
+Best NN parameters: {'model__activation': 'relu', 'model__alpha': 0.0001, 'model__hidden_layer_sizes': (64,), 'model__learning_rate_init': 0.001}
+Best NN CV PR-AUC: 0.1639
+Best NN OOF F2 threshold: 0.2447
+NN default confusion matrix: [[919, 53], [33, 17]]
+NN tuned confusion matrix: [[757, 215], [11, 39]]
+NN tuned metrics: {'threshold': 0.24474916387959864, 'accuracy': 0.7788649706457925, 'precision': 0.15354330708661418, 'recall': 0.78, 'f1': 0.2565789473684211, 'f2': 0.42951541850220265, 'pr_auc': 0.27356743949126927, 'roc_auc': 0.835761316872428}
