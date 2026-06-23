@@ -59,3 +59,9 @@ desktop.ini
 *.csv
 *.xlsx
 data/raw/
+# Extra report / presentation documents kept locally only
+程式/*8分鐘期末簡報.pptx
+程式/*8分鐘講稿.docx
+程式/*延伸研究報告.docx
+程式/*延伸研究報告_NN主軸版.docx
+程式/*逐頁註記與注意事項.docx
